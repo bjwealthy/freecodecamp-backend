@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mobolaji Adesoye",
 	"description": "My backend project with freecodecamp", 
-	"keywords": ["free code camp", "npm", "nodejs"],
+	"keywords": ["free code camp", "npm", "nodejs", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.18.2"
 	},
